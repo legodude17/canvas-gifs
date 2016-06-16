@@ -1,0 +1,32 @@
+{
+  "name": "canvas-gifs",
+  "version": "1.0.0",
+  "description": "Gif parsing for canvases.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "keywords": [
+    "gif",
+    "parser",
+    "javascript",
+    "img",
+    "browser"
+  ],
+  "author": "Joshua Bennett",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/"
+  },
+  "devDependencies": {
+    "express": "^4.13.4",
+    "grunt": "^1.0.1",
+    "grunt-contrib-uglify": "^1.0.1",
+    "grunt-eslint": "^18.1.0",
+    "grunt-execute": "^0.2.2"
+  }
+}
